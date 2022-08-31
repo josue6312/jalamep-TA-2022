@@ -5,10 +5,15 @@
 package pe.edu.pucp.jalamep.rrhh.model;
 
 /**
- *
+ * Poner enum de genero
  * @author Asus
  */
-public enum Sexo {
-    F,M,ND;
+public class Persona {
+    private String nombre;
+    private String apellidos;
+    private int dni;
+    private Sexo sexo;
+    private int cantViajes;
+    private double calificacion;
     
 }

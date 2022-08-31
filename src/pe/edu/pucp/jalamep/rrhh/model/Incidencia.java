@@ -8,7 +8,8 @@ package pe.edu.pucp.jalamep.rrhh.model;
  *
  * @author Asus
  */
-public enum Sexo {
-    F,M,ND;
+public class Incidencia {
+    public int idIncidencia;
+    private String descripcion;
     
 }

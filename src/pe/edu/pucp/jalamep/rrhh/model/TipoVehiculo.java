@@ -8,7 +8,6 @@ package pe.edu.pucp.jalamep.rrhh.model;
  *
  * @author Asus
  */
-public enum Sexo {
-    F,M,ND;
-    
+public enum TipoVehiculo {
+    Sedan,Hachback,Coupe,SUV,Pickup,Crossover;
 }

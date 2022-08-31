@@ -16,4 +16,5 @@ public class Vehiculo {
     private boolean seguro;
     private String color;
     private int capacidad;
+    
 }

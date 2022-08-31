@@ -8,7 +8,9 @@ package pe.edu.pucp.jalamep.rrhh.model;
  *
  * @author Asus
  */
-public enum Sexo {
-    F,M,ND;
+public class Usuario {
+    private String correo;
+    private String contrasena;
+    private int esActivo;
     
 }
