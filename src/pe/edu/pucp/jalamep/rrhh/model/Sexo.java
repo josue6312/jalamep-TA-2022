@@ -2,15 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package pe.edu.pucp.JalameP.rrhh.model;
+package pe.edu.pucp.jalamep.rrhh.model;
 
 /**
  *
  * @author Asus
  */
-public class Usuario {
-    private String correo;
-    private String contrasena;
-    private int activo;
-    
+public enum Sexo {
+    F,M,ND;
 }
