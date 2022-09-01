@@ -10,5 +10,4 @@ package pe.edu.pucp.jalamep.rrhh.model;
  */
 public enum Sexo {
     F,M,ND;
-    
 }
